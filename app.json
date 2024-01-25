@@ -1,4 +1,9 @@
 {
   "name": "dev_challenge_mobile",
-  "displayName": "dev_challenge_mobile"
+  "displayName": "dev_challenge_mobile",
+  "splash":{
+    "image": ".src/assets/ferraz-logo.png",
+    "resideMode": "contain",
+    "background": "#FFFFFF"
+  }
 }
